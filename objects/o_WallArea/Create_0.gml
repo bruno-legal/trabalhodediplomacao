@@ -1,0 +1,1 @@
+wallType = ss_BrickWall;

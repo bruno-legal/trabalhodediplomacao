@@ -1,0 +1,1 @@
+ if key_debugHud with all physics_draw_debug();

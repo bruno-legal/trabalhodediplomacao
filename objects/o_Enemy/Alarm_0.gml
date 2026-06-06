@@ -1,0 +1,2 @@
+canGetDamage = true;
+damageFlash = false;

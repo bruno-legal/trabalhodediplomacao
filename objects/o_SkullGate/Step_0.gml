@@ -1,0 +1,1 @@
+stack_depth_calc();
